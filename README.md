@@ -64,7 +64,7 @@
 
      生成ssh密钥
 
-     在c盘中找到相关文件"C:\Users\yubin\.ssh\id_rsa.pub"  ** 记得打开文件扩展名显示与隐藏文件可见**
+     在c盘中找到相关文件"C:\Users\yubin\.ssh\id_rsa.pub"  **记得打开文件扩展名显示与隐藏文件可见**
 
      全选在github上添加ssh公共密钥
 
