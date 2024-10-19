@@ -1,7 +1,7 @@
 # leetcode_mysolution
 
 
-# 记录在另一台电脑上同步并新建代码测试版本过程、
+# 记录在另一台电脑上同步并新建代码测试版本过程、(可以见Typora_Record仓库，更为实用)
 
 ## 前言
 
@@ -64,7 +64,7 @@
 
      生成ssh密钥
 
-     在c盘中找到相关文件"C:\Users\yubin\.ssh\id_rsa.pub"
+     在c盘中找到相关文件"C:\Users\yubin\.ssh\id_rsa.pub"  **记得打开文件扩展名显示与隐藏文件可见**
 
      全选在github上添加ssh公共密钥
 
